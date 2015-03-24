@@ -6,6 +6,7 @@ categories: main
 ---
 
 # Homemade Pizza
+![](https://www.toppers.com/ckfinder/userfiles/images/Pizza_Large_ToppersClassic.png)
 -	Prep time: 2 hours
 -	Cook time: 30 minutes
 -	Yield: Makes 2 10-12-inch pizzas.
